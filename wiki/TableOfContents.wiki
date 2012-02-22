@@ -1,0 +1,13 @@
+#summary sidebar toc for all wiki pages
+
+ * Universal Lipyantarak 
+ * Universal Devanagari Lipyantarak
+ * Language specific transliterators
+  * Bengali Lipyantarak
+  * Gurumukhi Lipyantarak
+  * Gujarati Lipyantarak
+  * Oria Lipyantarak
+  * Tamil Lipyantarak
+  * Telugu Lipyantarak
+  * Kannada Lipyantarak
+  * Malayalam Lipyantarak
