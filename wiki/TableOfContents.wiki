@@ -1,6 +1,6 @@
 #summary sidebar toc for all wiki pages
 
- * Universal Lipyantarak 
+ * Universal Bhartiya Lipyantarak 
  * Universal Devanagari Lipyantarak
  * Language specific transliterators
   * Bengali Lipyantarak
