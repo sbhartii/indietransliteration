@@ -21,5 +21,3 @@ Following potential branches of this project :-
   # Malayalam Lipyantarak : transliterates from Malayalam to Devanagari
 
 <g:plusone size="medium"></g:plusone>
-
-#sidebar TableOfContents
