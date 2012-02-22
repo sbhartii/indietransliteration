@@ -8,7 +8,7 @@ Transliteration from any indic script to any other indic script, mainly applicab
 = Lipyantaraks =
 
 Following potential branches of this project :-
- # Universal Lipyantarak : transliterates text in one indic script into other 
+ # Universal Bhartiya Lipyantarak : transliterates text in one indic script into other 
  # Universal Devanagari Lipyantarak : transliterates text in devanagari script in any other indic script, specially useful for Sanskrit text.
  # Language specific transliterators
   # Bengali Lipyantarak : transliterates from Bengali to Devanagari
