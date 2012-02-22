@@ -11,14 +11,14 @@ Following potential branches of this project :-
  # Universal Lipyantarak : transliterates text in one indic script into other 
  # Universal Devanagari Lipyantarak : transliterates text in devanagari script in any other indic script, specially useful for Sanskrit text.
  # Language specific transliterators
-  ## Bengali Lipyantarak : transliterates from Bengali to Devanagari
-  ## Gurumukhi Lipyantarak : transliterates from Punjabi to Devanagari
-  ## Gujarati Lipyantarak : transliterates from Gujarati to Devanagari
-  ## Oria Lipyantarak : transliterates from Oria to Devanagari
-  ## Tamil Lipyantarak : transliterates from Tamil to Devanagari
-  ## Telugu Lipyantarak : transliterates from Telugu to Devanagari
-  ## Kannada Lipyantarak : transliterates from Kannada to Devanagari
-  ## Malayalam Lipyantarak : transliterates from Malayalam to Devanagari
+  # Bengali Lipyantarak : transliterates from Bengali to Devanagari
+  # Gurumukhi Lipyantarak : transliterates from Punjabi to Devanagari
+  # Gujarati Lipyantarak : transliterates from Gujarati to Devanagari
+  # Oria Lipyantarak : transliterates from Oria to Devanagari
+  # Tamil Lipyantarak : transliterates from Tamil to Devanagari
+  # Telugu Lipyantarak : transliterates from Telugu to Devanagari
+  # Kannada Lipyantarak : transliterates from Kannada to Devanagari
+  # Malayalam Lipyantarak : transliterates from Malayalam to Devanagari
 
 <g:plusone size="medium"></g:plusone>
 
