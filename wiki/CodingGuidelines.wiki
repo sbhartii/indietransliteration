@@ -1,4 +1,4 @@
 #summary how should we code on this project
 #labels Phase-Implementation
 
- * [http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml Google JavaScript Style Guide] may be guideline for coding guidelines on this project.
+ * [http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml Google JavaScript Style Guide] may be guideline for coding style on this project.
