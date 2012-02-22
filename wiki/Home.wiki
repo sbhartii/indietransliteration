@@ -19,3 +19,7 @@ Following potential branches of this project :-
   ## Telugu Lipyantarak : transliterates from Telugu to Devanagari
   ## Kannada Lipyantarak : transliterates from Kannada to Devanagari
   ## Malayalam Lipyantarak : transliterates from Malayalam to Devanagari
+
+<g:plusone size="medium"></g:plusone>
+
+#sidebar TableOfContents
