@@ -4,20 +4,28 @@
 = Universal Inter-Indic Transliteration =
 
 Transliteration from any indic script to any other indic script, mainly applicable to Sanskrit text. It can be extended to other indic language text too. 
+ * [http://evichar.blogspot.in/2012/02/blog-post.html Sanskrit Transliteration : Universal and Automated ] - talks about need of such a transliterator. 
+ * [http://evichar.blogspot.in/2012/02/blog-post_09.html Features of Transliterator ] - the idea of transliterator and its features.
+ * [http://evichar.blogspot.in/2012/02/blog-post_14.html A case of Wiki] - usage specific to sanskrit wikipedia.
+ * [http://evichar.blogspot.in/2012/02/blog-post_414.html Technical details of Transliterator ] - detailed technical details of transliterator
+ * [http://evichar.blogspot.in/2012/02/sanskrit-transliteration-sanskrit.html Integration with Sanskrit Website] - integration with any sanskrit website
+
+Request to other indic language speakers to translate the wiki content as described in [http://code.google.com/p/support/wiki/WikiSyntax#Localizing_Wiki_Content Localising Wiki Content]. 
 
 = Lipyantaraks =
 
-Following potential branches of this project :-
+== Main Branches ==
  # Universal Bhartiya Lipyantarak : transliterates text in one indic script into other 
  # Universal Devanagari Lipyantarak : transliterates text in devanagari script in any other indic script, specially useful for Sanskrit text.
- # Language specific transliterators
-  # Bengali Lipyantarak : transliterates from Bengali to Devanagari
-  # Gurumukhi Lipyantarak : transliterates from Punjabi to Devanagari
-  # Gujarati Lipyantarak : transliterates from Gujarati to Devanagari
-  # Oria Lipyantarak : transliterates from Oria to Devanagari
-  # Tamil Lipyantarak : transliterates from Tamil to Devanagari
-  # Telugu Lipyantarak : transliterates from Telugu to Devanagari
-  # Kannada Lipyantarak : transliterates from Kannada to Devanagari
-  # Malayalam Lipyantarak : transliterates from Malayalam to Devanagari
+
+== Language specific branches ==
+ # Bengali Lipyantarak : transliterates from Bengali to Devanagari
+ # Gurumukhi Lipyantarak : transliterates from Punjabi to Devanagari
+ # Gujarati Lipyantarak : transliterates from Gujarati to Devanagari
+ # Oria Lipyantarak : transliterates from Oria to Devanagari
+ # Tamil Lipyantarak : transliterates from Tamil to Devanagari
+ # Telugu Lipyantarak : transliterates from Telugu to Devanagari
+ # Kannada Lipyantarak : transliterates from Kannada to Devanagari
+ # Malayalam Lipyantarak : transliterates from Malayalam to Devanagari
 
 <g:plusone size="medium"></g:plusone>

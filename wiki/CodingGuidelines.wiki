@@ -1,4 +1,6 @@
 #summary coding style
 #labels Phase-Implementation
 
- * [http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml Google JavaScript Style Guide] could be a guideline for project's coding style. 
+ * [http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml Google JavaScript Style Guide] - guideline for project's coding style.
+ * [http://code.google.com/p/jsdoc-toolkit/ jsdoc-toolkit ] - javascript documentation
+ * [https://developers.google.com/closure/ Closure Tools ] - javascript closure compilation and compression  

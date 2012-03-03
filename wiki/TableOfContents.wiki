@@ -1,5 +1,6 @@
 #summary sidebar toc for all wiki pages
 
+ * Common Usage Guidelines
  * Universal Bhartiya Lipyantarak 
  * Universal Devanagari Lipyantarak
  * Language specific transliterators
