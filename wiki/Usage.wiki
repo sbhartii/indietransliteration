@@ -1,0 +1,26 @@
+#summary Common method of using devanagari lipyantarak
+#label Featured
+
+ = Common Usage Guidelines =
+ 
+ Please follow two simple steps below to include transliterator into your web page.
+ 
+ # Embed following code under "head" section of html page
+ {{{
+<script type="text/javascript"><!-- 
+var _lipyak_opts = new Object();
+_lipyak_opts.plipi='deva';	//primary language of page
+_lipyak_opts.clipi='deva';	//current language of page
+_lipyak_opts.ttitle=true;	//transliterate title too
+_lipyak_opts.tclass=false;	//transliretate all body text of class type "satext", requires _tbody to be true
+_lipyak_opts.lipioptionslist='deva,beng,guru,gujr,orya,taml,telu,knda,mlym';
+--></script>
+<script type="text/javascript" src="http://bhartiya-bhasha-antah-lipyantaran.googlecode.com/files/deva-c.js"></script>
+ }}}
+ # Place following code where "list of lipi menu dropdown" should go in the html page
+ {{{
+<!-- placeholder for lipi list select menu -->
+<select class="lipioptions" style="width:200px;"></select>
+ }}}
+  * CSS styling may be used to blend the new lipi menu with existing page layouts and theme
+  * Try including in one of the common sub-templates used across the website. This shall enable inclusion of transliterator among all pages under the website.  

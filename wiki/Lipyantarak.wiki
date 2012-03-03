@@ -1,0 +1,45 @@
+#summary Info on Lipyantarak
+#labels 
+
+ = Lipyantarak =
+ Devanagari and Bhartiya lipyantaraks can be used mainly. 
+ 
+ There are eight regional lipyantarak for each regional lipi. 
+ 
+ There could be lipyantaraks for each region, like eastern, southern etc.
+ 
+ == General Outline ==
+ A lipyantarak has a general structure like below :-
+ # Lipyantarak options : for configuriration
+  # Primary lipi : in which the page is authored
+  # Title transliteration : if title of page is also to be transliterated
+  # Parts of Page transliteration : if only parts of page are to be transliterated
+  # List of lipis : into which transliteration is carried out
+ # Utils : utility functions
+  # empty : checks if vars are empty
+  # cookie : creates, updates, deletes and reads cookie
+ # Varnmala : holds info on indic lipis
+  # lipicount : 9 lipis
+  # lipilist : ISO 15924 based code names of lipis
+  # transliterate : text in one lipi into another lipi
+ # Varnmala for each Lipi 
+  # unicode : first unicode decimal value
+  # name : full name of language in its own lipi, associated language names
+  # style : CSS details
+  # Lipi list : in which transliteration from this lipi can be carried out
+   # jump : jump from primary lipi into new lipi
+   # custommap : mapping of special chars from primary lipi into new lipi
+ # Html Processor : processes html tags
+  # htmltags : lists each html tag present from a root node
+  # attributetext : extracts text of an attribute of an html tag
+  # tagtext : extracts text of an html tag
+  # styleset : sets lipi specific styles for the page
+  # attributes : list of attributes for each html tag which may hold text for transliteration
+ # Lipyantarak : main function which starts transliteration process
+ # Page : page specific functions
+  # setDefault : sets default values to lipyantarak options if not set
+  # translipi : called by lipi list menu on page
+  # createLipiMenu : creates list of lipis on page
+ # Auto transliteration : transliterates page into new lipi according to cookie value
+ 
+ <g:plusone size="medium"></g:plusone>
