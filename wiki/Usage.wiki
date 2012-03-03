@@ -1,8 +1,10 @@
 #summary Common method of using devanagari lipyantarak
-#label Featured
+#labels Featured
 
  = Common Usage Guidelines =
+ Integration, Documentation and Testing details of the tool.
  
+ == Integration with a Website == 
  Please follow two simple steps below to include transliterator into your web page.
  
  # Embed following code under "head" section of html page
@@ -23,4 +25,10 @@ _lipyak_opts.lipioptionslist='deva,beng,guru,gujr,orya,taml,telu,knda,mlym';
 <select class="lipioptions" style="width:200px;"></select>
  }}}
   * CSS styling may be used to blend the new lipi menu with existing page layouts and theme
-  * Try including in one of the common sub-templates used across the website. This shall enable inclusion of transliterator among all pages under the website.  
+  * Try including in one of the common sub-templates used across the website. This shall enable inclusion of transliterator among all pages under the website.
+  
+  == Documentation ==
+  Documentation of the tool can be found at [http://code.google.com/p/bhartiya-bhasha-antah-lipyantaran/downloads/list downloads page].
+
+  == Testing ==
+  To test the tool, please visit [http://code.google.com/p/bhartiya-bhasha-antah-lipyantaran/downloads/list downloads page] and test its efficiency and find bugs.

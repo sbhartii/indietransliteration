@@ -1,5 +1,5 @@
 #summary Index of all wiki pages, other resource on this project.
-#labels Phase-Design,Featured
+#labels Phase-Design
 
 = Universal Inter-Indic Transliteration =
 
@@ -16,7 +16,7 @@ Request to other indic language speakers to translate the wiki content as descri
 
 == Main Branches ==
  # Universal Bhartiya Lipyantarak : transliterates text in one indic script into other 
- # Universal Devanagari Lipyantarak : transliterates text in devanagari script in any other indic script, specially useful for Sanskrit text.
+ # [Lipyantarak Devanagari Lipyantarak] : transliterates text in devanagari script in any other indic script, specially useful for Sanskrit text.
 
 == Language specific branches ==
  # Bengali Lipyantarak : transliterates from Bengali to Devanagari

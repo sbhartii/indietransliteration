@@ -4,3 +4,5 @@
  * [http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml गूगल की जावास्कृप्ट कोडिंग शैली] - इस प्रोजेक्ट की कोडिंग शैली
  * [http://code.google.com/p/jsdoc-toolkit/ jsdoc-toolkit ] - जावास्कृप्ट प्रलेखन
  * [https://developers.google.com/closure/ Closure Tools ] - जावास्कृप्ट कमपाइल और संक्षिप्तीकरण   
+ 
+ <g:plusone size="medium"></g:plusone>

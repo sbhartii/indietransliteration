@@ -1,8 +1,9 @@
 #summary sidebar toc for all wiki pages
 
- * Common Usage Guidelines
+ * [Home Home]
+ * [Usage Common Usage Guidelines]
  * Universal Bhartiya Lipyantarak 
- * Universal Devanagari Lipyantarak
+ * [Lipyantarak Devanagari Lipyantarak]
  * Language specific transliterators
   * Bengali Lipyantarak
   * Gurumukhi Lipyantarak
