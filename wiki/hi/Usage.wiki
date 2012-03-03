@@ -1,0 +1,26 @@
+#summary देवनागरी लिप्यन्तरक प्रयोग के सुगम साधन
+#label Featured
+
+ = सामान्य प्रयोग निर्देश =
+ 
+ निम्न दो मात्र उपाय से लिप्यन्तरक सुगमता से प्रयोग में लाया जा सकता है।
+ 
+ # निम्न कोड को एचटीएमएल के "हेड" भाग में डालें 
+ {{{
+<script type="text/javascript"><!-- 
+var _lipyak_opts = new Object();
+_lipyak_opts.plipi='deva';	//primary language of page
+_lipyak_opts.clipi='deva';	//current language of page
+_lipyak_opts.ttitle=true;	//transliterate title too
+_lipyak_opts.tclass=false;	//transliretate all body text of class type "satext", requires _tbody to be true
+_lipyak_opts.lipioptionslist='deva,beng,guru,gujr,orya,taml,telu,knda,mlym';
+--></script>
+<script type="text/javascript" src="http://bhartiya-bhasha-antah-lipyantaran.googlecode.com/files/deva-c.js"></script>
+ }}}
+ # निम्न कोड को पृष्ठ पर वहाँ लगायें जहाँ लिपि सूची लगनी है
+ {{{
+<!-- placeholder for lipi list select menu -->
+<select class="lipioptions" style="width:200px;"></select>
+ }}}
+  * सीएसएस शैली से सूची को पृष्ठ की रूपरेखा अनुरूप ढ़ाला जा सकता है
+  * इसे एक उप-साँचे में डालें जिसका प्रयोग वेबसाइट में सभी पन्नों में किया गया है। इससे यह लिप्यन्तरक स्वतः ही सारे पृष्ठों में लागू हो जायेगा।  
