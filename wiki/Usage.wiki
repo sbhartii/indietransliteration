@@ -7,7 +7,7 @@
  == Integration with a Website == 
  Please follow two simple steps below to include transliterator into your website.
  
- # Embed following code under "head" section of the html page
+ # Embed following code at end of "head" section of the html page
  {{{
 <script type="text/javascript"><!-- 
 var _lipyak_opts = new Object();
