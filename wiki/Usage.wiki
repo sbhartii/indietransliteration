@@ -5,9 +5,9 @@
  Integration, Documentation and Testing details of the tool.
  
  == Integration with a Website == 
- Please follow two simple steps below to include transliterator into your web page.
+ Please follow two simple steps below to include transliterator into your website.
  
- # Embed following code under "head" section of html page
+ # Embed following code under "head" section of the html page
  {{{
 <script type="text/javascript"><!-- 
 var _lipyak_opts = new Object();

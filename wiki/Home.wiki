@@ -28,4 +28,10 @@ Request to other indic language speakers to translate the wiki content as descri
  # Kannada Lipyantarak : transliterates from Kannada to Devanagari
  # Malayalam Lipyantarak : transliterates from Malayalam to Devanagari
 
+== Regional specific Lipyantaraks ==
+ # Eastern India : Bengali, Oria, Asamese, Manipuri etc
+ # Northern India : Hindi, Punjabi, Gujarati, Bhojpuri, Marathi etc
+ # Western India : Marathi, Konkani, North Kannada
+ # Southern India : Kannada, Telugu, Malayalam
+ 
 <g:plusone size="medium"></g:plusone>
