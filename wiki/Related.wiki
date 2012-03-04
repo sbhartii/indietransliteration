@@ -1,0 +1,10 @@
+#summary Online work related to this project
+
+== Related Work ==
+ # [http://www.virtualvinodh.com/aksharamukha Aksharmukha]
+ # [http://h2p.learnpunjabi.org/default.aspx Punjabi University ]
+ # [http://www.devanaagarii.net/hi/girgit/ Girgit]
+ # [http://learnsanskrit.org/tools/sanscript Sanscript]
+
+ 
+<g:plusone size="medium"></g:plusone>

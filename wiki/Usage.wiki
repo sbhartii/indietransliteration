@@ -32,3 +32,6 @@ _lipyak_opts.lipioptionslist='deva,beng,guru,gujr,orya,taml,telu,knda,mlym';
 
   == Testing ==
   To test the tool, please visit [http://code.google.com/p/bhartiya-bhasha-antah-lipyantaran/downloads/list downloads page] and test its efficiency and find bugs.
+  
+  
+<g:plusone size="medium"></g:plusone>

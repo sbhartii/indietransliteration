@@ -1,0 +1,10 @@
+#summary इस परियोजना से सम्बन्धित अंतर्जाल पर अन्य कार्य
+
+== सम्बन्धित कार्य ==
+ # [http://www.virtualvinodh.com/aksharamukha अक्षरमुख]
+ # [http://h2p.learnpunjabi.org/default.aspx पंजाबी विश्वविद्यालय]
+ # [http://www.devanaagarii.net/hi/girgit/ गिरगिट]
+ # [http://learnsanskrit.org/tools/sanscript संसकृप्त]
+
+ 
+<g:plusone size="medium"></g:plusone>
