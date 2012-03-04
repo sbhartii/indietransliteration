@@ -205,6 +205,10 @@ _lipyak.Varnmala.deva.guru.custommap=function(c){
 	case '।': return ' ';	//deva danda to latin blank space
 	case '॥': return ' ';	//deva double danda to latin blank space
 	case 'ॐ': return 'ॐ';	//deva om
+	case 'ऋ' : return 'ਰਿ';	//deva rri swar
+	case 'ष' : return 'ਸ਼';	//deva murdhanya sha
+	case 'ृ' : return '੍ਰਿ';	//deva rri swar with varna 
+	case 'ऽ' : return 'ऽ';	//deva swar extension 
 	default: return false;
 	}
 }
