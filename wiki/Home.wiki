@@ -9,6 +9,8 @@ Transliteration from any indic script to any other indic script, mainly applicab
  * [http://evichar.blogspot.in/2012/02/blog-post_14.html A case of Wiki] - usage specific to sanskrit wikipedia.
  * [http://evichar.blogspot.in/2012/02/blog-post_414.html Technical details of Transliterator ] - detailed technical details of transliterator
  * [http://evichar.blogspot.in/2012/02/sanskrit-transliteration-sanskrit.html Integration with Sanskrit Website] - integration with any sanskrit website
+ * [http://evichar.blogspot.in/2012/03/blog-post.html Bhartiya Bhasha Antah Lipyantaran Project] - About this Project.
+ * [http://evichar.blogspot.in/2012/03/blog-post_05.html Enhancements for the Transliterator] - Suggestions for Improvements
 
 Request to other indic language speakers to translate the wiki content as described in [http://code.google.com/p/support/wiki/WikiSyntax#Localizing_Wiki_Content Localising Wiki Content]. 
 

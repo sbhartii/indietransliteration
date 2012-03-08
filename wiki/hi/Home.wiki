@@ -9,7 +9,9 @@
  * [http://evichar.blogspot.in/2012/02/blog-post_14.html विकि विशेष ] - इस परियोजना के प्रयुक्ताओं में संस्कृत विकि भी है, उसपर चर्चा की गयी है। 
  * [http://evichar.blogspot.in/2012/02/blog-post_414.html तकनीकि विवरण ] - लिप्यन्तरक की विस्तारित जानकारी।
  * [http://evichar.blogspot.in/2012/02/sanskrit-transliteration-sanskrit.html संस्कृत वेबसाइट एकीकरण] - किसी भी संस्कृत वेबसाइट से इस लिप्यन्तरक का एकीकरण।
-
+ * [http://evichar.blogspot.in/2012/03/blog-post.html भारतीय भाषा अंतः लिप्यन्तरण परियोजना] - इस परियोजना के बारे में।
+ * [http://evichar.blogspot.in/2012/03/blog-post_05.html उपकरण उत्थान संबंधी सुझाव] - उपकरण उत्थान संबंधी सुझाव
+  
 अन्य भारतीय भाषा के लेख के लिप्यन्तरण में भी इस परियोजना का उपयोग किया जा सकता है। अन्य भाषियों से अनुरोध है कि [http://code.google.com/p/support/wiki/WikiSyntax#Localizing_Wiki_Content विकि लेखन शैली - क्षेत्रीयकरण] के आधार पर अन्य भाषा में भी इस विकि का अनुवाद करें। 
 
 = लिप्यन्तरक =
