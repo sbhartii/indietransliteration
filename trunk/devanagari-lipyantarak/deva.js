@@ -3,7 +3,9 @@
  * Gujarati, Orya, Tamil, Telugu, Kannada, Malayalam, entirely written in Javascript
  * <br>Compression : change _lipyak namespace to _l, Safe Replace _lipyak.=_l.,.Varnmala=.v,.Utils=.u,
  * .Page=.p,.Htmlpc=.h,.custommap=.c,.transliterate=.t,.empty=.e,.unicode=.u,.
- * @author sbharti@gmail.com (Shaurabh Bharti)
+ * @author Bhartiya Bhasha Antah Lipyantaran (bhartiya-bhasha-antah-lipyantaran@googlegroups.com)
+ * @author Shaurabh Bharti (sbharti@gmail.com)
+ * @author Vinodh Rajan (vinodh@virtualvinodh.com)
  * @created 06 Feb 2012
  */
 
@@ -237,6 +239,21 @@ _lipyak.Varnmala.deva.taml.custommap=function(c){
 	switch(c){
 	case '।': return ' ';	//deva danda to latin blank space
 	case '॥': return ' ';	//deva double danda to latin blank space
+	case 'ऋ': return 'க்ரு';	//deva rhi to tamil combo rhi
+	case 'ख': return 'க';	//deva kha to tamil ka
+	case 'ग': return 'க';	//deva ga to tamil ka
+	case 'घ': return 'க';	//deva gha to tamil ka
+	case 'छ': return 'ச';	//deva chha to tamil cha
+	case 'झ': return 'ஜ';	//deva jha to tamil ja
+	case 'ठ': return 'ட';	//deva tha to tamil ta
+	case 'ड': return 'ட';	//deva da to tamil ta
+	case 'ढ': return 'ட';	//deva dha to tamil ta
+	case 'थ': return 'த';	//deva Tha to tamil Ta
+	case 'द': return 'த';	//deva Da to tamil Ta
+	case 'ध': return 'த';	//deva Dha to tamil Ta
+	case 'फ': return 'ப';	//deva pha to tamil pa
+	case 'ब': return 'ப';	//deva ba to tamil pa
+	case 'भ': return 'ப';	//deva bha to tamil pa
 	default: return false;
 	}
 }
