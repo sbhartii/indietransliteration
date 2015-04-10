@@ -18,7 +18,7 @@
  
 Visit our [Common Usage Guidelines](Usage.md) page to know how to use the tool.
 
-Visit our [downloads page](../master/) for downloading tool, documentation and testing. 
+Visit our [downloads page](../../tree/master/) for downloading tool, documentation and testing. 
 
 Tested browsers are Firefox 4 and above, Internet Explorer 8 and above, Google Chrome 17 and above. 
 
