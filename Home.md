@@ -1,4 +1,5 @@
 # Universal Inter-Indic Transliteration #
+**Index of all wiki pages, other resource on this project.**
 
 Transliteration from any indic script to any other indic script, mainly applicable to Sanskrit text. It can be extended to other indic language text too.
   * [Sanskrit Transliteration : Universal and Automated ](http://evichar.blogspot.in/2012/02/blog-post.html) - talks about need of such a transliterator.
