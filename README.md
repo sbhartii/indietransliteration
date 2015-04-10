@@ -1,5 +1,7 @@
 # bhartiya-bhasha-antah-lipyantaran
 
+see http://evichar.blogspot.in/2012/02/blog-post.html for more details.
+
 Sanskrit as Lipi Independent Language
   Sanskrit is a widely spoken language throughout India. Its spoken roughly same manner but written in regional scripts. I have identified 9 scripts for transliteration. Devanagari, Bengali, Punjabi, Gujarati, Oria, Tamil, Telugu, Kannada and Malayalam.
 
