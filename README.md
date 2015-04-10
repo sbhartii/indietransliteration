@@ -9,17 +9,17 @@
   This project creates a simple javascript tool which transliterates text of website instantly. Various advantages to this approach are :-
   
 1. **Instant :** The tool transliterates text instantly on the web page, with no noticeable notice in browsing experience.
-2. **Easily Integrated :** As explained on [Usage Common Usage Guidelines], the tool can be easily integrated with existing webpages through header and a drop-down menu
-3. **Light weight :** Tool currently weights less than 10KB, any noticeable change in browsing experience is minimal.
+2. **Easily Integrated :** As explained on [Common Usage Guidelines](Usage.md), the tool can be easily integrated with existing webpages through header and a drop-down menu
+3. **Light weight :** Tool currently weighs less than 10KB, any noticeable change in browsing experience is minimal.
 4. **Secure :** Tool does not transmit/store/play with any data of the website. It may, however, create usage statistics in future, with permission of the website owners.
 5. **Print and Save :** Once pages are transliterated, they can be printed and saved in transliterated form too. 
 6. **Partial Transliteration :** Tool supports partial transliteration of web pages, as some may not have all text in Sanskrit but Hindi or other indic language, though written in Devanagari script or other indic script. 
 7. **Google code hosting :** Hosted on google code, tool does not eat up share of internet bandwidth of websites, and also provides fast and reliable connection from google code. 
  
-Visit our [Usage Common Usage Guidelines] page to know how to use the tool.
+Visit our [Common Usage Guidelines](Usage.md) page to know how to use the tool.
 
-Visit our [http://code.google.com/p/bhartiya-bhasha-antah-lipyantaran/downloads/list downloads page] for downloading tool, documentation and testing. 
+Visit our [downloads page](../master/) for downloading tool, documentation and testing. 
 
 Tested browsers are Firefox 4 and above, Internet Explorer 8 and above, Google Chrome 17 and above. 
 
-Several script related issues have been resolved, see [http://code.google.com/p/bhartiya-bhasha-antah-lipyantaran/issues/list?can=1&q=&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=tiles Resolved Issues].
+Several script related issues have been resolved, see [Resolved Issues](../../issues/).
